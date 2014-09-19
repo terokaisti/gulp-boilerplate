@@ -21,4 +21,4 @@ as a prerequisite it's assumed you have `npm` installed and the `gulp-cli`.
 
 4. create out/index.html and start coding
 
-Stripped version of jh3y's [gulp boilerplate v2](https://github.com/jh3y/gulp-boilerplate-v2.git)
+_This repo is a strip from jh3y's [gulp boilerplate v2](https://github.com/jh3y/gulp-boilerplate-v2.git)_
