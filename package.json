@@ -1,5 +1,5 @@
 {
-  "name": "gulp-boilerplate-v2",
+  "name": "gulp-boilerplate",
   "version": "0.1.0",
   "description": "a starting point for using gulp",
   "devDependencies": {
