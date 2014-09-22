@@ -7,7 +7,7 @@ a simple gulp boilerplate that gives you
 The aim is to get you up and running with something in _gulp_ quickly
 
 ##usage
-as a prerequisite it's assumed you have `npm` installed and the `gulp-cli`.
+as a prerequisite it's assumed you have `npm` installed
 
 1. clone the repo
 
@@ -17,8 +17,8 @@ as a prerequisite it's assumed you have `npm` installed and the `gulp-cli`.
 
 3. start gulp
 
-		gulp
+		./node_modules/.bin/gulp
 
 4. create out/index.html and start coding
 
-_This repo is a strip from jh3y's [gulp boilerplate v2](https://github.com/jh3y/gulp-boilerplate-v2.git)_
+_This repo is a simplified version of jh3y's [gulp boilerplate v2](https://github.com/jh3y/gulp-boilerplate-v2.git)_
